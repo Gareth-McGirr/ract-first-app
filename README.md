@@ -1,2 +1,2 @@
-# ract-first-app
+# react-first-app
 Learning project for CI react module
